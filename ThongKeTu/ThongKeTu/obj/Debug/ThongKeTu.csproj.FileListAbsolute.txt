@@ -1,0 +1,12 @@
+C:\Users\doanc\OneDrive\Máy tính\Ôn tập Winfrom C#\ThongKeTu\ThongKeTu\bin\Debug\ThongKeTu.exe.config
+C:\Users\doanc\OneDrive\Máy tính\Ôn tập Winfrom C#\ThongKeTu\ThongKeTu\bin\Debug\ThongKeTu.exe
+C:\Users\doanc\OneDrive\Máy tính\Ôn tập Winfrom C#\ThongKeTu\ThongKeTu\bin\Debug\ThongKeTu.pdb
+C:\Users\doanc\OneDrive\Máy tính\Ôn tập Winfrom C#\ThongKeTu\ThongKeTu\obj\Debug\ThongKeTu.csproj.AssemblyReference.cache
+C:\Users\doanc\OneDrive\Máy tính\Ôn tập Winfrom C#\ThongKeTu\ThongKeTu\obj\Debug\ThongKeTu.Form1.resources
+C:\Users\doanc\OneDrive\Máy tính\Ôn tập Winfrom C#\ThongKeTu\ThongKeTu\obj\Debug\ThongKeTu.Properties.Resources.resources
+C:\Users\doanc\OneDrive\Máy tính\Ôn tập Winfrom C#\ThongKeTu\ThongKeTu\obj\Debug\ThongKeTu.csproj.GenerateResource.cache
+C:\Users\doanc\OneDrive\Máy tính\Ôn tập Winfrom C#\ThongKeTu\ThongKeTu\obj\Debug\ThongKeTu.csproj.CoreCompileInputs.cache
+C:\Users\doanc\OneDrive\Máy tính\Ôn tập Winfrom C#\ThongKeTu\ThongKeTu\obj\Debug\ThongKeTu.exe
+C:\Users\doanc\OneDrive\Máy tính\Ôn tập Winfrom C#\ThongKeTu\ThongKeTu\obj\Debug\ThongKeTu.pdb
+C:\Users\doanc\OneDrive\Máy tính\Ôn tập Winfrom C#\ThongKeTu\ThongKeTu\obj\Debug\ThongKeTu.Form2.resources
+C:\Users\doanc\OneDrive\Máy tính\Ôn tập Winfrom C#\ThongKeTu\ThongKeTu\obj\Debug\ThongKeTu.FormMain.resources
