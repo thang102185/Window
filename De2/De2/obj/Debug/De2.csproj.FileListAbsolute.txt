@@ -1,0 +1,12 @@
+C:\Users\doanc\OneDrive\Máy tính\Ôn tập Winfrom C#\De2\De2\bin\Debug\De2.exe.config
+C:\Users\doanc\OneDrive\Máy tính\Ôn tập Winfrom C#\De2\De2\bin\Debug\De2.exe
+C:\Users\doanc\OneDrive\Máy tính\Ôn tập Winfrom C#\De2\De2\bin\Debug\De2.pdb
+C:\Users\doanc\OneDrive\Máy tính\Ôn tập Winfrom C#\De2\De2\obj\Debug\De2.csproj.AssemblyReference.cache
+C:\Users\doanc\OneDrive\Máy tính\Ôn tập Winfrom C#\De2\De2\obj\Debug\De2.Form1.resources
+C:\Users\doanc\OneDrive\Máy tính\Ôn tập Winfrom C#\De2\De2\obj\Debug\De2.Properties.Resources.resources
+C:\Users\doanc\OneDrive\Máy tính\Ôn tập Winfrom C#\De2\De2\obj\Debug\De2.csproj.GenerateResource.cache
+C:\Users\doanc\OneDrive\Máy tính\Ôn tập Winfrom C#\De2\De2\obj\Debug\De2.csproj.CoreCompileInputs.cache
+C:\Users\doanc\OneDrive\Máy tính\Ôn tập Winfrom C#\De2\De2\obj\Debug\De2.exe
+C:\Users\doanc\OneDrive\Máy tính\Ôn tập Winfrom C#\De2\De2\obj\Debug\De2.pdb
+C:\Users\doanc\OneDrive\Máy tính\Ôn tập Winfrom C#\De2\De2\obj\Debug\De2.FormMain.resources
+C:\Users\doanc\OneDrive\Máy tính\Ôn tập Winfrom C#\De2\De2\obj\Debug\De2.Form2.resources
