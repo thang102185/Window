@@ -1,0 +1,12 @@
+C:\Users\doanc\OneDrive\Máy tính\Ôn tập Winfrom C#\QuanLiHocSinh\QuanLiHocSinh\bin\Debug\QuanLiHocSinh.exe.config
+C:\Users\doanc\OneDrive\Máy tính\Ôn tập Winfrom C#\QuanLiHocSinh\QuanLiHocSinh\bin\Debug\QuanLiHocSinh.exe
+C:\Users\doanc\OneDrive\Máy tính\Ôn tập Winfrom C#\QuanLiHocSinh\QuanLiHocSinh\bin\Debug\QuanLiHocSinh.pdb
+C:\Users\doanc\OneDrive\Máy tính\Ôn tập Winfrom C#\QuanLiHocSinh\QuanLiHocSinh\obj\Debug\QuanLiHocSinh.csproj.AssemblyReference.cache
+C:\Users\doanc\OneDrive\Máy tính\Ôn tập Winfrom C#\QuanLiHocSinh\QuanLiHocSinh\obj\Debug\QuanLiHocSinh.Form1.resources
+C:\Users\doanc\OneDrive\Máy tính\Ôn tập Winfrom C#\QuanLiHocSinh\QuanLiHocSinh\obj\Debug\QuanLiHocSinh.Form2.resources
+C:\Users\doanc\OneDrive\Máy tính\Ôn tập Winfrom C#\QuanLiHocSinh\QuanLiHocSinh\obj\Debug\QuanLiHocSinh.Properties.Resources.resources
+C:\Users\doanc\OneDrive\Máy tính\Ôn tập Winfrom C#\QuanLiHocSinh\QuanLiHocSinh\obj\Debug\QuanLiHocSinh.csproj.GenerateResource.cache
+C:\Users\doanc\OneDrive\Máy tính\Ôn tập Winfrom C#\QuanLiHocSinh\QuanLiHocSinh\obj\Debug\QuanLiHocSinh.csproj.CoreCompileInputs.cache
+C:\Users\doanc\OneDrive\Máy tính\Ôn tập Winfrom C#\QuanLiHocSinh\QuanLiHocSinh\obj\Debug\QuanLiHocSinh.exe
+C:\Users\doanc\OneDrive\Máy tính\Ôn tập Winfrom C#\QuanLiHocSinh\QuanLiHocSinh\obj\Debug\QuanLiHocSinh.pdb
+C:\Users\doanc\OneDrive\Máy tính\Ôn tập Winfrom C#\QuanLiHocSinh\QuanLiHocSinh\obj\Debug\QuanLiHocSinh.Form3.resources
