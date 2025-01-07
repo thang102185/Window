@@ -1,0 +1,12 @@
+C:\Users\doanc\OneDrive\Máy tính\Ôn tập Winfrom C#\De4\De4\bin\Debug\De4.exe.config
+C:\Users\doanc\OneDrive\Máy tính\Ôn tập Winfrom C#\De4\De4\bin\Debug\De4.exe
+C:\Users\doanc\OneDrive\Máy tính\Ôn tập Winfrom C#\De4\De4\bin\Debug\De4.pdb
+C:\Users\doanc\OneDrive\Máy tính\Ôn tập Winfrom C#\De4\De4\obj\Debug\De4.csproj.AssemblyReference.cache
+C:\Users\doanc\OneDrive\Máy tính\Ôn tập Winfrom C#\De4\De4\obj\Debug\De4.Form1.resources
+C:\Users\doanc\OneDrive\Máy tính\Ôn tập Winfrom C#\De4\De4\obj\Debug\De4.Form2.resources
+C:\Users\doanc\OneDrive\Máy tính\Ôn tập Winfrom C#\De4\De4\obj\Debug\De4.Properties.Resources.resources
+C:\Users\doanc\OneDrive\Máy tính\Ôn tập Winfrom C#\De4\De4\obj\Debug\De4.csproj.GenerateResource.cache
+C:\Users\doanc\OneDrive\Máy tính\Ôn tập Winfrom C#\De4\De4\obj\Debug\De4.csproj.CoreCompileInputs.cache
+C:\Users\doanc\OneDrive\Máy tính\Ôn tập Winfrom C#\De4\De4\obj\Debug\De4.exe
+C:\Users\doanc\OneDrive\Máy tính\Ôn tập Winfrom C#\De4\De4\obj\Debug\De4.pdb
+C:\Users\doanc\OneDrive\Máy tính\Ôn tập Winfrom C#\De4\De4\obj\Debug\De4.Form3.resources
