@@ -1,0 +1,11 @@
+C:\Users\doanc\OneDrive\Máy tính\Ôn tập Winfrom C#\DonHang\DonHang\bin\Debug\DonHang.exe.config
+C:\Users\doanc\OneDrive\Máy tính\Ôn tập Winfrom C#\DonHang\DonHang\bin\Debug\DonHang.exe
+C:\Users\doanc\OneDrive\Máy tính\Ôn tập Winfrom C#\DonHang\DonHang\bin\Debug\DonHang.pdb
+C:\Users\doanc\OneDrive\Máy tính\Ôn tập Winfrom C#\DonHang\DonHang\obj\Debug\DonHang.csproj.AssemblyReference.cache
+C:\Users\doanc\OneDrive\Máy tính\Ôn tập Winfrom C#\DonHang\DonHang\obj\Debug\DonHang.Form1.resources
+C:\Users\doanc\OneDrive\Máy tính\Ôn tập Winfrom C#\DonHang\DonHang\obj\Debug\DonHang.Form2.resources
+C:\Users\doanc\OneDrive\Máy tính\Ôn tập Winfrom C#\DonHang\DonHang\obj\Debug\DonHang.Properties.Resources.resources
+C:\Users\doanc\OneDrive\Máy tính\Ôn tập Winfrom C#\DonHang\DonHang\obj\Debug\DonHang.csproj.GenerateResource.cache
+C:\Users\doanc\OneDrive\Máy tính\Ôn tập Winfrom C#\DonHang\DonHang\obj\Debug\DonHang.csproj.CoreCompileInputs.cache
+C:\Users\doanc\OneDrive\Máy tính\Ôn tập Winfrom C#\DonHang\DonHang\obj\Debug\DonHang.exe
+C:\Users\doanc\OneDrive\Máy tính\Ôn tập Winfrom C#\DonHang\DonHang\obj\Debug\DonHang.pdb
