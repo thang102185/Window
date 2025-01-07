@@ -1,0 +1,11 @@
+C:\Users\doanc\OneDrive\Máy tính\Ôn tập Winfrom C#\VeXemPhim\VeXemPhim\bin\Debug\VeXemPhim.exe.config
+C:\Users\doanc\OneDrive\Máy tính\Ôn tập Winfrom C#\VeXemPhim\VeXemPhim\bin\Debug\VeXemPhim.exe
+C:\Users\doanc\OneDrive\Máy tính\Ôn tập Winfrom C#\VeXemPhim\VeXemPhim\bin\Debug\VeXemPhim.pdb
+C:\Users\doanc\OneDrive\Máy tính\Ôn tập Winfrom C#\VeXemPhim\VeXemPhim\obj\Debug\VeXemPhim.csproj.AssemblyReference.cache
+C:\Users\doanc\OneDrive\Máy tính\Ôn tập Winfrom C#\VeXemPhim\VeXemPhim\obj\Debug\VeXemPhim.Form1.resources
+C:\Users\doanc\OneDrive\Máy tính\Ôn tập Winfrom C#\VeXemPhim\VeXemPhim\obj\Debug\VeXemPhim.Form2.resources
+C:\Users\doanc\OneDrive\Máy tính\Ôn tập Winfrom C#\VeXemPhim\VeXemPhim\obj\Debug\VeXemPhim.Properties.Resources.resources
+C:\Users\doanc\OneDrive\Máy tính\Ôn tập Winfrom C#\VeXemPhim\VeXemPhim\obj\Debug\VeXemPhim.csproj.GenerateResource.cache
+C:\Users\doanc\OneDrive\Máy tính\Ôn tập Winfrom C#\VeXemPhim\VeXemPhim\obj\Debug\VeXemPhim.csproj.CoreCompileInputs.cache
+C:\Users\doanc\OneDrive\Máy tính\Ôn tập Winfrom C#\VeXemPhim\VeXemPhim\obj\Debug\VeXemPhim.exe
+C:\Users\doanc\OneDrive\Máy tính\Ôn tập Winfrom C#\VeXemPhim\VeXemPhim\obj\Debug\VeXemPhim.pdb
